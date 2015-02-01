@@ -13,7 +13,11 @@
   },
   "dependencies": {
     "request": "^2.51.0",
-    "tap": "^0.4.8"
+    "tap": "^0.4.8",
+    "browser-request": "^0.3.3"
+  },
+  "browser": {
+    "request": "browser-request"
   },
   "keywords": [
     "FenixEdu",
