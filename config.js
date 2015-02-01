@@ -3,7 +3,7 @@ var config = {
   oauthUrl: 'https://fenix.tecnico.ulisboa.pt/oauth/',
   clientId: 'YOUR CLIENT_ID',
   clientSecret: 'YOUR CLIENT_SECRET',
-  redirectUri: 'http://example.com/redirect'
+  redirectUri: ''
 };
 
 module.exports = config;
